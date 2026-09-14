@@ -1,0 +1,82 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+// Font
+body, .greedy-nav a, .site-title {
+    font-family: "Fira Sans", -apple-system, sans-serif;
+}
+
+// Text sizing
+.page__content {
+    font-size: 0.9em;
+}
+
+.page__content h3 {
+    font-size: 1.1em;
+}
+
+// Layout
+.page {
+    width: 100%;
+    max-width: 100%;
+    padding-right: 0;
+}
+
+.page__inner-wrap {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+// Logo
+.site-logo img,
+.greedy-nav img {
+    max-height: 140px !important;
+}
+
+// .site-logo { max-width: 200px; }
+
+.site-logo {
+    // max-width: 220px;
+    max-width: 180px;
+    flex-shrink: 0;
+}
+
+// Nav bar
+.masthead {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+// .greedy-nav {
+//     justify-content: flex-start !important;
+//     gap: 0.1em;
+// }
+
+// .greedy-nav {
+//     justify-content: flex-start !important;
+// }
+
+// .greedy-nav .site-logo {
+//     margin-right: 1em !important;
+// }
+
+.greedy-nav .visible-links {
+    margin-left: 0 !important;
+}
+
+// .greedy-nav {
+//     justify-content: center !important;
+//     gap: 1.5em;
+// }
+
+
+.greedy-nav .visible-links {
+    margin-left: 0;
+}
+
+.greedy-nav .visible-links a {
+    padding: 0 0.5em;
+}

@@ -1,0 +1,13 @@
+<div class="custom-header">
+  <a href="/" class="custom-logo">
+    <img src="{{ site.logo }}" alt="{{ site.title | default: 'Home' }}">
+  </a>
+  <nav class="custom-nav">
+    {% for link in site.data.navigation.main %}
+      <a href="{{ link.url }}"
+         {% if page.url == link.url %}class="current"{% endif %}>
+        {{ link.title }}
+      </a>
+    {% endfor %}
+  </nav>
+</div>

@@ -1,0 +1,15 @@
+main:
+  - title: "about"
+    url: /about/
+  - title: "case studies"
+    url: /case-studies/
+  - title: "principles"
+    url: /principles/
+  - title: "process"
+    url: /process/
+  # - title: "fun tools"
+  #   url: /demo/
+  # - title: "writing"
+  #   url: /writing/
+  - title: "contact"
+    url: /contact/

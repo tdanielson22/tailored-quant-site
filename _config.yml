@@ -1,0 +1,79 @@
+# ---------------------------------------------------------------
+# Site configuration — edit the values below to make this yours.
+# ---------------------------------------------------------------
+
+# logo: "/assets/images/logo.png"
+# logo: "/assets/images/logo3.svg"
+logo: "/assets/images/logo3-trimmed.svg"
+# logo: "/assets/images/tailored-quant-logo-final.svg"
+title: ""
+subtitle: ""
+# title: "Tailored Quant"
+# subtitle: "Investment Risk Advisory"
+# name: "Tom Danielson"
+description: "bio, case studies (real and imagined), lightweight models, and some mediocre writing with useful math."
+url: "https://www.tailoredquant.com"   # <-- your GoDaddy domain, once DNS is pointed here
+baseurl: ""
+
+# Theme (installed via Gemfile as a gem-based theme — see README)
+remote_theme: "mmistakes/minimal-mistakes"
+# minimal_mistakes_skin: "default"    # try: "air", "contrast", "dirt", "neon" for other looks
+minimal_mistakes_skin: "air"
+# minimal_mistakes_skin: "dark"
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable : true   # avoids extra CSS/JS you don't need
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation (edit labels/order; matches files in _pages/)
+author:
+  # name: "Tom Danielson"
+  bio: "Helping investors find their math since 1999."
+  # location: "Boston, Massachusetts"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:tom@tailoredquant.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/danielson-thomas"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/yourusername"
+
+# footer:
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope"
+#       url: "mailto:you@yourdomain.com"
+
+# Default layout settings — applies "single" page layout with author sidebar
+# to every page/post unless overridden in that file's front matter.
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      share: true
+
+# Main nav bar — order here controls the order shown on the site
+# (edit labels/urls, or add more, to match _data/navigation.yml)
