@@ -7,9 +7,5 @@ main:
     url: /principles/
   - title: "process"
     url: /process/
-  # - title: "fun tools"
-  #   url: /demo/
-  # - title: "writing"
-  #   url: /writing/
   - title: "contact"
     url: /contact/

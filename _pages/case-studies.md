@@ -16,7 +16,7 @@ A family struggled to find support through conventional channels in bringing the
 
 ### Family Office - Temporary Resource Trust Modeling
 
-A family office's internal quantitative resource departed during a time-sensitive trust design project. I reviewed existing models, worked iteratively with the CEO to scope and ultimately pivot to a new model accommodating commonalities and idiosyncracies across each family line (which had been modeled independently). The model enabled the CEO to test his plans and communicate the findings to family lines.
+A family office's internal quantitative resource departed during a time-sensitive trust design project. I reviewed existing models, worked iteratively with the CEO to scope and ultimately pivot to a new model accommodating commonalities and idiosyncrasies across each family line (which had been modeled independently). The model enabled the CEO to test his plans and communicate the findings to family lines.
 
 <!--What question was being illuminated? What was required of the client? After the initial project, what made your help temporary?-->
 

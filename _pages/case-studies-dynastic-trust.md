@@ -10,11 +10,11 @@ permalink: /case-studies/dynastic-trust/
 
 **How sustainable is their vision?**
 
-We modeled after-tax trust sustainability over a range of market paths, exploring which benefit levels could be a threat to the multi-generational vision. While the benefit designs were specific and not readily handled by off the shelf tools, none were complicated, enabling us to quickly build intuition and confirm the viability that even their larger benefit considerations and built intuition and conviction that the trust was well-funded for the work they had in mind.
+We modeled after-tax trust sustainability over a range of market paths, exploring which benefit levels could be a threat to the multi-generational vision. While the benefit designs were specific and not readily handled by off the shelf tools, none were complicated, enabling us to quickly develop intuition around the viability of the plan, confirming that the trust was well-funded.
 
 **Could the design improve?**
 
-With the sustainability established, we pivoted to improving the design of a housing support benefit, testing subsidized loans vs grants initially. The objective of a meaningful support for descendents of varied financial means, enabling earlier or more substantial home purchase, without distorting the beneficiary's circumstances, was better achieved by a grant. But how to design? Census data allowed us to test benefit designs that were sufficient to improve purchasing power in a material way across a wide array of potential beneficiary profiles across location, income strata and household stage/size/age. 
+The objective of a meaningful support for descendents of varied financial means, without distorting the beneficiary's circumstances, was better achieved by a grant. But how to design? Census data allowed us to profile young couples of various means across each state, testing benefit designs that were sufficient to improve purchasing power in a material way, while also testing how large a grant would create an undesirable distortion.
 
 **What modifications could lower the cost to administer?**
 

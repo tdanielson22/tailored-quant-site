@@ -42,14 +42,14 @@ Each project presents different combinations of key drivers and threats to consi
   <summary><span style="font-weight: bold;">Synthesis & Decision</span> - This is the process of stitching together all of the assumptions and research threads into a state of the problem and the best decision they can make given where we stand. This part of the process is principally a test of the earlier step at various levels assessing if the work is sufficient on an element of the project as well as the whole.</summary>
   
 <blockquote>
-Where is the quality of the work broadly? Are the weak spots critical, can they be shored up? If we stopped researching, what decision would be made? If the collaborators have command of the problem, is it ready to test with other constiuencies? </blockquote>
+Where is the quality of the work broadly? Are the weak spots critical, can they be shored up? If we stopped researching, what decision would be made? If the collaborators have command of the problem, is it ready to test with other constituencies? </blockquote>
 </details>
 <br>
 
 <details>
   <summary><span style="font-weight: bold;">Design & Delivery</span> - For projects with a natural deliverable, whether a writeup, a model, or a presentation/discussion, our understanding of the problem is sufficient to proceed.</summary>
   
-<blockquote>How much of the deliverable is the framing, exploration and synthesis? What documentation is valuable, to whome, over what time frame, to what end, ie. a writeup or report for posterity, other audiences/decision makers. Does it prompt discussion or is it a complete thought, conveying the research completed, rigor and design communicated? Is a physical tool needed?  For whom, in what form, covering which dimensions of the problem space?</blockquote>
+<blockquote>How much of the deliverable is the framing, exploration and synthesis? What documentation is valuable, to whom, over what time frame, to what end, ie. a writeup or report for posterity, other audiences/decision makers. Does it prompt discussion or is it a complete thought, conveying the research completed, rigor and design communicated? Is a physical tool needed?  For whom, in what form, covering which dimensions of the problem space?</blockquote>
 </details>
 
 
